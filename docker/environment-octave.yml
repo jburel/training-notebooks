@@ -1,0 +1,6 @@
+channels:
+- conda-forge
+dependencies:
+- oct2py
+- octave_kernel=0.28.4=py27_0
+prefix: /opt/conda/envs/octave
